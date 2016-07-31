@@ -1,0 +1,8 @@
+password: melissa
+home_suburb: Daceyville
+home_latitude: -33.9336
+email: V.Klitschko@unsw.edu.au
+username: AwesomeVitali
+home_longitude: 151.2230
+listens: PamelaAnderson ReesePrincess433 James41 AaronSurfer264 CuteNerd CupcakeGal95 MarkNinja SherylAngel BrainyStar69 SexyBoy06
+full_name: Vitali Klitschko

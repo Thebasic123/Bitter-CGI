@@ -1,0 +1,8 @@
+password: king
+home_longitude: 151.0069
+home_suburb: Condell Park
+username: AngelinaNerd80
+listens: CuteNerd CupcakeGal95 MarkNinja SherylAngel ErinWoman21 JuanPabloMontoya PierceCat AmeliaAngel SexyBoy06
+full_name: Angelina Jolie
+home_latitude: -33.9201
+email: A.Jolie@unsw.edu.au

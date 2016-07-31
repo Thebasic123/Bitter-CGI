@@ -1,0 +1,8 @@
+password: albert
+home_longitude: 150.9124
+email: M.Swartz@unsw.edu.au
+home_latitude: -33.5556
+home_suburb: Cattai
+listens: CupcakeGal95 PedroGuy AngelinaNerd80 PiotrMan68 AwesomeVitali
+username: MarkNinja
+full_name: Mark Swartz

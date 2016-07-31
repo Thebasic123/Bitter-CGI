@@ -1,0 +1,8 @@
+username: NerdyAnimal03
+home_longitude: 151.1494
+listens: CrazyCarlos79 James41 TenderLucy11 FunnyGeek53 Dominic938 AlexandreBoy03 PamelaAnderson RalphFirman
+email: J.Canseco@unsw.edu.au
+home_suburb: Marrickville Metro
+full_name: Jose Canseco
+password: russia
+home_latitude: -33.8981

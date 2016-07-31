@@ -1,0 +1,8 @@
+home_suburb: Gordon
+home_latitude: -33.7636
+listens: CrazyMarisa28
+username: CatherineCat713
+home_longitude: 151.1473
+full_name: Catherine Zeta-Jones
+password: star
+email: C.Z.Jones@unsw.edu.au

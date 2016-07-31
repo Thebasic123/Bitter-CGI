@@ -1,0 +1,8 @@
+password: dreams
+home_latitude: -33.9132
+home_longitude: 151.2250
+username: Daisy64
+home_suburb: University Of New South Wales
+listens: SexyBoy06
+full_name: Daisy Fuentes
+email: D.Fuentes@unsw.edu.au

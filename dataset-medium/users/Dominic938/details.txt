@@ -1,0 +1,6 @@
+email: D.Monaghan@unsw.edu.au
+username: Dominic938
+full_name: Dominic Monaghan
+home_suburb: Wingala
+password: password
+listens: CarmenTiger NerdyAnimal03 AaronSurfer264 Trista06 CupcakeGal95 AlexandreLover907 SadLeAnn97 CrazyMarisa28

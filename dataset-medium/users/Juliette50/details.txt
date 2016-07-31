@@ -1,0 +1,8 @@
+email: J.Binoche@unsw.edu.au
+password: srinivas
+username: Juliette50
+home_longitude: 150.8107
+home_latitude: -33.7517
+home_suburb: Emerton
+listens: SadLeAnn97 Susie1 AlexandreLover907 MarcLover MikaPuppy
+full_name: Juliette Binoche

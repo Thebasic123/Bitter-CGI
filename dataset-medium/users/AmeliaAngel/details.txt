@@ -1,0 +1,8 @@
+home_latitude: -33.8026
+full_name: Amelia Vega
+username: AmeliaAngel
+home_longitude: 151.1888
+password: nascar
+home_suburb: Chatswood
+listens: CarmenTiger NerdyAnimal03 CupcakeGal95 Patrick72 AlexandreLover907 NikkiGal FunnyGeek53 AngelinaNerd80
+email: A.Vega@unsw.edu.au

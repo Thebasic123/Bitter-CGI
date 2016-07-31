@@ -1,0 +1,8 @@
+email: J.Franco@unsw.edu.au
+home_latitude: -34.1041
+username: James41
+listens: JuliannaWoman78 CarmenTiger CrazyCarlos79 AwesomeVitali NerdyAnimal03 FunnyGeek53 PiotrMan68 SherylAngel JuanPabloMontoya BrainyStar69 PamelaAnderson
+home_longitude: 150.8058
+password: yankees
+full_name: James Franco
+home_suburb: St Helens Park

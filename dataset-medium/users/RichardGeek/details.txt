@@ -1,0 +1,7 @@
+password: teens
+home_latitude: -33.8506
+email: R.Virenque@unsw.edu.au
+listens: CarmenTiger ReesePrincess433 AaronSurfer264 Trista06 CuteNerd AlexandreLover907 Daisy64 SherylAngel ErinWoman21 FunnyGeek53 BrainyStar69 MikaPuppy
+full_name: Richard Virenque
+home_longitude: 151.1387
+username: RichardGeek

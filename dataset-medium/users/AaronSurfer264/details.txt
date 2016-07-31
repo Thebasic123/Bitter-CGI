@@ -1,0 +1,7 @@
+home_longitude: 151.2211
+listens: CarmenTiger AwesomeVitali Patrick72 MarcLover FunnyGenius47 NikkiGal RichardGeek AlexandreBoy03 SexyBoy06 RalphFirman
+email: A.Peirsol@unsw.edu.au
+full_name: Aaron Peirsol
+home_latitude: -33.9122
+password: redskins
+username: AaronSurfer264

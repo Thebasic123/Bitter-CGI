@@ -1,0 +1,7 @@
+email: C.Electra@unsw.edu.au
+listens: ReesePrincess433 James41 AaronSurfer264 MarcLover AmeliaAngel NerdyAnimal03 JuanPabloMontoya RichardGeek BrainyStar69 SexyBoy06
+password: steve
+home_latitude: -33.8522
+username: CarmenTiger
+home_longitude: 150.9839
+full_name: Carmen Electra

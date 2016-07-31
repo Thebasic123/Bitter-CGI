@@ -1,0 +1,7 @@
+email: S.Blum@unsw.edu.au
+home_longitude: 150.9258
+full_name: Scott Blum
+home_latitude: -33.7726
+listens: JuliannaWoman78 AwesomeVitali BrainyRachel15 Patrick72 Daisy64 SherylAngel PierceCat RichardGeek AngelinaNerd80
+password: 666666
+username: CuteNerd

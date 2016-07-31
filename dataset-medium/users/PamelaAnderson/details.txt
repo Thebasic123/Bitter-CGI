@@ -1,0 +1,8 @@
+password: prince
+listens: ReesePrincess433 James41 AwesomeVitali CupcakeGal95 JuanPabloMontoya CrazyMarisa28 NikkiGal FunnyGeek53 BrainyStar69 MikaPuppy
+home_suburb: Clemton Park
+full_name: Pamela Anderson
+home_latitude: -33.9340
+home_longitude: 151.1110
+email: P.Anderson@unsw.edu.au
+username: PamelaAnderson

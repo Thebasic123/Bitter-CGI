@@ -1,0 +1,8 @@
+full_name: Marisa Tomei
+password: calvin
+home_latitude: -33.8957
+email: M.Tomei@unsw.edu.au
+listens: BrainyRachel15 AlexandreLover907 CatherineCat713 Dominic938 MikaPuppy FunnyGenius47
+home_longitude: 151.2532
+username: CrazyMarisa28
+home_suburb: Waverley

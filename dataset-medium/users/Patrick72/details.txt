@@ -1,0 +1,8 @@
+home_suburb: Haberfield
+password: 123456
+email: P.Bourrat@unsw.edu.au
+username: Patrick72
+listens: ReesePrincess433 AwesomeVitali AaronSurfer264 CupcakeGal95 CuteNerd Susie1 FunnyGeek53 PierceCat AlexandreBoy03 AmeliaAngel RalphFirman
+home_latitude: -33.8767
+full_name: Patrick Bourrat
+home_longitude: 151.1354

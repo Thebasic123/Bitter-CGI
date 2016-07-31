@@ -1,0 +1,8 @@
+username: MarcLover
+home_suburb: University Of New South Wales
+full_name: Marc-Andre Fleury
+home_longitude: 151.2336
+password: jeremy
+listens: JuliannaWoman78 CarmenTiger NikkiGal CupcakeGal95 MarkNinja TenderLucy11 Juliette50 ErinWoman21 FunnyGeek53 RalphFirman
+email: M.A.Fleury@unsw.edu.au
+home_latitude: -33.9263

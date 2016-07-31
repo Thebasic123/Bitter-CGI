@@ -1,0 +1,8 @@
+listens: CrazyCarlos79 AaronSurfer264 CupcakeGal95 Patrick72 PiotrMan68 NerdyAnimal03 ErinWoman21 CrazyMarisa28
+home_longitude: 151.0238
+home_latitude: -33.6161
+password: gandalf
+email: A.Despatie@unsw.edu.au
+home_suburb: Glenorie
+full_name: Alexandre Despatie
+username: AlexandreBoy03

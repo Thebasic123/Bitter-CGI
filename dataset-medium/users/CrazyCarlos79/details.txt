@@ -1,0 +1,7 @@
+home_longitude: 151.0711
+listens: NerdyAnimal03 Trista06 MarcLover PedroGuy PiotrMan68 JuanPabloMontoya AlexandreBoy03 MikaPuppy SexyBoy06 RalphFirman
+full_name: Carlos Moya
+email: C.Moya@unsw.edu.au
+password: snoopy
+username: CrazyCarlos79
+home_latitude: -33.8023

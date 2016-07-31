@@ -1,0 +1,6 @@
+listens: Juliette50
+password: nicole
+full_name: Susie Castillo
+email: S.Castillo@unsw.edu.au
+home_suburb: Crows Nest
+username: Susie1

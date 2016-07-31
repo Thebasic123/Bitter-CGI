@@ -1,0 +1,8 @@
+username: BrainyStar69
+home_latitude: -33.6420
+email: L.Clarkson@unsw.edu.au
+full_name: Lana Clarkson
+home_longitude: 151.2742
+home_suburb: Lovett Bay
+listens: CarmenTiger CrazyCarlos79 AwesomeVitali AlexandreLover907 SherylAngel ErinWoman21 PierceCat RichardGeek AngelinaNerd80 PamelaAnderson
+password: leather

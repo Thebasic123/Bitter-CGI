@@ -1,0 +1,8 @@
+username: SherylAngel
+listens: AmeliaAngel James41 AwesomeVitali AaronSurfer264 CuteNerd AlexandreLover907 PiotrMan68 MikaPuppy Dominic938 BrainyStar69 AngelinaNerd80 RichardGeek
+home_suburb: Castlecrag
+home_longitude: 151.2166
+password: ashley
+home_latitude: -33.8096
+email: S.Crow@unsw.edu.au
+full_name: Sheryl Crow

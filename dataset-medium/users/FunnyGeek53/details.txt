@@ -1,0 +1,8 @@
+home_latitude: -33.8933
+home_longitude: 151.2729
+listens: CarmenTiger NerdyAnimal03 Trista06 CupcakeGal95 MarkNinja SexyBoy06 Patrick72 RichardGeek PamelaAnderson
+full_name: Grant Hackett
+email: G.Hackett@unsw.edu.au
+password: mustang
+username: FunnyGeek53
+home_suburb: Bronte

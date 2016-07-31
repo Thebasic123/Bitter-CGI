@@ -1,0 +1,8 @@
+home_suburb: Bondi
+full_name: Andre Agassi
+email: A.Agassi@unsw.edu.au
+password: peanut
+home_longitude: 151.2528
+username: SexyBoy06
+home_latitude: -33.8885
+listens: CarmenTiger CrazyCarlos79 AwesomeVitali Trista06 CupcakeGal95 PedroGuy Daisy64 SherylAngel FunnyGeek53

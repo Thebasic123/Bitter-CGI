@@ -1,0 +1,8 @@
+listens: AaronSurfer264 PamelaAnderson ErinWoman21 MarcLover
+home_latitude: -33.8954
+username: NikkiGal
+password: sexy
+full_name: Nikki Reed
+home_suburb: Woollahra
+email: N.Reed@unsw.edu.au
+home_longitude: 151.2314

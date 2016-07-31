@@ -1,0 +1,8 @@
+home_suburb: Kensington
+username: SadLeAnn97
+home_latitude: -33.9074
+email: LeA.Rimes@unsw.edu.au
+password: 8675309
+listens: Dominic938 Susie1 Juliette50 TenderLucy11
+home_longitude: 151.2315
+full_name: LeAnn Rimes

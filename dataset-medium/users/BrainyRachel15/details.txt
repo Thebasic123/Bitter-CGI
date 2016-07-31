@@ -1,0 +1,6 @@
+home_suburb: Marrickville
+listens: CuteNerd RalphFirman
+username: BrainyRachel15
+email: R.Hunter@unsw.edu.au
+full_name: Rachel Hunter
+password: einstein

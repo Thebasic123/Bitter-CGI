@@ -1,0 +1,8 @@
+home_suburb: Fairfield West
+listens: Dominic938 TenderLucy11 SexyBoy06 FunnyGeek53
+home_longitude: 150.9220
+full_name: Trista Rehn
+password: cooper
+email: T.Rehn@unsw.edu.au
+username: Trista06
+home_latitude: -33.8646

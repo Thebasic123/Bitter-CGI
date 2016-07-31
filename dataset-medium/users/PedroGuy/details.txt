@@ -1,0 +1,8 @@
+listens: TenderLucy11 SexyBoy06
+email: P.Pauleta@unsw.edu.au
+full_name: Pedro Pauleta
+home_suburb: Sadleir
+home_latitude: -33.9215
+home_longitude: 150.8888
+username: PedroGuy
+password: pepper

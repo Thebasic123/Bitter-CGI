@@ -1,0 +1,8 @@
+email: J.Lopez@unsw.edu.au
+listens: JuliannaWoman78 PierceCat
+username: FunnyGenius47
+home_longitude: 150.6797
+home_latitude: -33.6063
+password: booger
+full_name: Jennifer Lopez
+home_suburb: Grose Wold

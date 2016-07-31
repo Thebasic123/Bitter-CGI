@@ -1,0 +1,8 @@
+full_name: Erin Brockovich
+password: beavis
+username: ErinWoman21
+listens: Juliette50 MarcLover PierceCat BrainyStar69 AlexandreBoy03 MikaPuppy
+email: E.Brockovich@unsw.edu.au
+home_longitude: 151.2288
+home_suburb: University Of New South Wales
+home_latitude: -33.9083

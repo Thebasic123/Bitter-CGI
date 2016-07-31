@@ -1,0 +1,8 @@
+home_longitude: 151.2248
+home_suburb: Woolloomooloo
+home_latitude: -33.8614
+full_name: Mika Hakkinen
+username: MikaPuppy
+password: maverick
+email: M.Hakkinen@unsw.edu.au
+listens: JuliannaWoman78 ReesePrincess433 CrazyCarlos79 NerdyAnimal03 Juliette50 PiotrMan68 SherylAngel ErinWoman21 RichardGeek AlexandreBoy03 CrazyMarisa28 PamelaAnderson

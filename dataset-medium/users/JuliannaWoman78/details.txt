@@ -1,0 +1,8 @@
+password: baby
+home_suburb: Collaroy
+username: JuliannaWoman78
+listens: MarcLover TenderLucy11 James41 FunnyGenius47
+email: J.Margulies@unsw.edu.au
+full_name: Julianna Margulies
+home_latitude: -33.7398
+home_longitude: 151.2985

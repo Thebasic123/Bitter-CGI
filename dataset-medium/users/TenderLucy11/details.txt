@@ -1,0 +1,8 @@
+email: L.Liu@unsw.edu.au
+listens: JuliannaWoman78 NerdyAnimal03 Trista06 AlexandreLover907 MarcLover PedroGuy SadLeAnn97
+password: sticky
+home_latitude: -33.7676
+home_longitude: 151.2722
+home_suburb: North Manly
+full_name: Lucy Liu
+username: TenderLucy11

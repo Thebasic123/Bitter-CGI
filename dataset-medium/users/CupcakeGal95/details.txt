@@ -1,0 +1,8 @@
+full_name: Celine Dion
+home_longitude: 151.1926
+home_suburb: Greenwich
+email: C.Dion@unsw.edu.au
+listens: AwesomeVitali Patrick72 MarkNinja MarcLover SexyBoy06 FunnyGeek53 Dominic938 AlexandreBoy03 AngelinaNerd80 AmeliaAngel PamelaAnderson
+password: secret
+home_latitude: -33.8226
+username: CupcakeGal95

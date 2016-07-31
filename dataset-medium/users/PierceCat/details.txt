@@ -1,0 +1,7 @@
+password: freddy
+email: P.Brosnan@unsw.edu.au
+home_latitude: -33.7423
+listens: Patrick72 CuteNerd FunnyGenius47 ErinWoman21 JuanPabloMontoya BrainyStar69 AngelinaNerd80 CrazyMarisa28
+home_longitude: 150.9042
+username: PierceCat
+full_name: Pierce Brosnan
